@@ -1,4 +1,8 @@
 
+<Version: 1.01>
+/data/aktualizacja.zip https://pl.wordpress.org/latest-pl_PL.zip
+<End of Version>
+
 <Version: 1.02>
 /data/Map001.json https://raw.githubusercontent.com/MroznyOfficial/UpdaterForProject/main/Map001.json
 <End of Version>
