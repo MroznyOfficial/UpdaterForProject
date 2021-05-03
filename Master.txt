@@ -1,1 +1,4 @@
 
+<Version: 1.01>
+/data/aktualizacja.zip https://pl.wordpress.org/latest-pl_PL.zip
+<End of Version>
