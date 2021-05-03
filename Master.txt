@@ -1,4 +1,4 @@
 
-<Version: 0.03>
+<Version: 1.02>
 /data/Map001.json https://raw.githubusercontent.com/MroznyOfficial/UpdaterForProject/main/Map001.json
 <End of Version>
